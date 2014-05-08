@@ -1,4 +1,7 @@
-gulp-earthquake
-===============
+### Gulp Earthquake
 
-Gulp...
+#### Como usar
+
+`sudo npm install`
+
+`gulp`
