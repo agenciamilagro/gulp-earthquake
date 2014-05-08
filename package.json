@@ -1,0 +1,15 @@
+{
+  "name": "nome-do-projeto",
+  "version": "0.0.0",
+  "description": "Descrição do projeto",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agenciamilagro/gulp-earthquake.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agenciamilagro/gulp-earthquake/issues"
+  },
+  "homepage": "https://github.com/agenciamilagro/gulp-earthquake"
+}
