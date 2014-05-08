@@ -11,5 +11,11 @@
   "bugs": {
     "url": "https://github.com/agenciamilagro/gulp-earthquake/issues"
   },
-  "homepage": "https://github.com/agenciamilagro/gulp-earthquake"
+  "homepage": "https://github.com/agenciamilagro/gulp-earthquake",
+  "devDependencies": {
+    "gulp-ruby-sass": "^0.4.3",
+    "gulp-uglify": "^0.2.1",
+    "gulp-watch": "^0.6.4",
+    "gulp": "^3.6.2"
+  }
 }
