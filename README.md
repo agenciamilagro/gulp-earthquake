@@ -3,6 +3,11 @@
 
 #### Como usar
 
-* `sudo npm install`
+* Instale o Gulpe
+`sudo npm install gulp -g`
 
-* `gulp`
+* Instale as dependências
+`sudo npm install`
+
+* Divirta-se
+`gulp`
