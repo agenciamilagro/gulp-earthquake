@@ -11,6 +11,8 @@
 
 `sudo npm install`
 
+## Alterar os paths no arquivo `gulpfile.js`
+
 * Divirta-se
 
 `gulp`
