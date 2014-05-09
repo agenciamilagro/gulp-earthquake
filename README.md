@@ -3,7 +3,7 @@
 
 #### Como usar
 
-* Instale o Gulp
+* Instale o Gulp: http://gulpjs.com/
 
 `sudo npm install gulp -g`
 
